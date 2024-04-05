@@ -5,7 +5,7 @@ author: Wilson Estrada,Yordy Gonzales, Felipe Benitez, Yuly Meza
 tags:
   - Optimization
 image:
-  src: /images/decapcms.png
+  src: https://cdn-icons-png.flaticon.com/512/2103/2103787.png
   alt: Diamonds
 snippet: Dataset selection
 publishDate: 2024-01-01 12:00
