@@ -34,7 +34,7 @@ const readTime = getArticleReadingTime(post.body);
 
 <Layout title={post.data.title} lang={lang}>
 	<Container>
-		<div class=" prose prose-lg dark:prose-invert mt-14">
+		<div class="mx-auto prose prose-lg dark:prose-invert mt-14">
 			<a
 				href={localizePath(`/blog/category/${post.data.category?.toLowerCase()}`)}
 				class="text-blue-400 dark:text-stone-400 uppercase tracking-wider text-sm font-medium no-underline">
