@@ -5,11 +5,11 @@ author: Wilson Estrada,Yordy Gonzales, Felipe Benitez, Yuly Meza
 tags:
   - Optimization
 image:
-  src: https://cdn-icons-png.flaticon.com/512/2103/2103787.png
-  alt: Model Selection I
-snippet: Model Selection I
-publishDate: 2024-01-01 12:00
-category: Model Selection I
+  src: https://i.ibb.co/mJJc3y8/decapcms.png
+  alt: Model Selection II
+snippet: Model Selection II
+publishDate:
+category: Model Selection II
 ---
 
 ### Details about your selection
