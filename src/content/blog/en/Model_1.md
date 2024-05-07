@@ -8,7 +8,7 @@ image:
   src: https://i.ibb.co/mJJc3y8/decapcms.png
   alt: Model Selection I
 snippet: Model Selection I
-publishDate:
+publishDate: 2024-01-01 12:00
 category: Model Selection I
 ---
 
