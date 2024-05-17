@@ -12,6 +12,8 @@ publishDate: 2024-01-01 12:00
 category: Model Selection I
 ---
 
+![LR](https://github.com/wilsone24/Optimization-Project/assets/118389840/b83ba0e1-dd6a-4172-a639-d92c63abb7b0)
+
 ### Objectives
 
 * Identify the variables (dimensions and characteristics) that explain to a greater extent the behavior of diamond prices to build the predictive model and understand how these variables affect them.
