@@ -14,6 +14,7 @@ category: Model Selection II
 
 ![New Project - Made with Clipchamp](https://github.com/wilsone24/Optimization-Project/assets/118389840/cd9f4dee-b8ba-4409-bc9d-6d03c171929d)
 
+
 ### Details about your selection
 
 In this case, we chose a type of neural network known as an MLP (Multilayer Perceptron). After cleaning the data and removing dimensionless data, we eliminated outliers that exhibited highly unusual behavior compared to the distributions of other diamond features and measurements. We opted for neural networks because we observed that the data's behavior was not strictly linear, and we wanted to capture that non-linearity in some way. Neural networks offer us the possibility to do this thanks to their multiple layers and the weights between neurons that adjust with the data. Additionally, their strength lies in their ability to learn complex patterns and relationships, making them suitable given that the customizable architecture of MLP allows us to adjust the network's topology to optimize performance.
@@ -68,7 +69,7 @@ The distribution of residuals and predicted values was verified compared to the 
 
 ### How does this model compare to the first one?
 
-* The score was improved, increasing from 0.88 to 0.975, indicating an improvement in the model's quality.
+* The score was improved, increasing from 0.866 to 0.975, indicating an improvement in the model's quality.
 
 * Regarding the obtained residuals, there is a reduction in their dispersion in the neural network compared to linear regression.
 
